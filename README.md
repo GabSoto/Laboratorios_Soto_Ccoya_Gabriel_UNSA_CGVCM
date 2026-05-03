@@ -12,11 +12,11 @@ Semestre IX
 
 En este repositorio se encuentran los proyectos desarrollados durante el semestre, organizados por número de laboratorio y temática.
 
-| Lab | Tema | Descripción | Estado |
-| :--- | :--- | :--- | :--- |
-| **01** | Introducción a CG | [Breve descripción] | ❌ |
-| **02** | Transformaciones Geométricas | Proyecto de puzzle en Unity | ✅ |
-| **03** | [Tema por definir] | - | ⏳ |
+| Lab | Tema | Descripción |
+| :--- | :--- | :--- |
+| **01** | Motor Unity Physics | Juego de Basketball | 
+| **02** | Transformaciones Geométricas 2D | Proyecto de puzzle en Unity |
+| **03** | Transformaciones Geométricas 2D | - |
 
 ---
 
