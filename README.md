@@ -17,6 +17,7 @@ En este repositorio se encuentran los proyectos desarrollados durante el semestr
 | **01** | Motor Unity Physics | Juego de Basketball | 
 | **02** | Transformaciones Geométricas 2D | Proyecto de puzzle en Unity |
 | **03** | Transformaciones Geométricas 3D | Nave espacial |
+| **04** | Cámara en primera y tercera persona | Nave espacial |
 
 ---
 
