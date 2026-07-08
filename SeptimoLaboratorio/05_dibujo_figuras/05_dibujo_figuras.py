@@ -98,19 +98,7 @@ cv2.putText(
     cv2.LINE_AA                 # anti-aliasing para texto suave
 )
 
-# ── 6. Información adicional en la parte inferior ────────────────────────
-cv2.putText(
-    anotada,
-    "Deteccion: cara detectada",
-    (10, imagen.shape[0] - 15),
-    cv2.FONT_HERSHEY_SIMPLEX,
-    0.55,
-    (255, 255, 255),
-    1,
-    cv2.LINE_AA
-)
-
-# ── 7. Guardar resultado ─────────────────────────────────────────────────
+# ── 6. Guardar resultado ─────────────────────────────────────────────────
 cv2.imwrite("leon_anotado.jpg", anotada)
 print(f"  Círculo dibujado en: centro={centro_cara}, radio={radio_cara}px")
 print(f"  Texto agregado: '{etiqueta}'")
